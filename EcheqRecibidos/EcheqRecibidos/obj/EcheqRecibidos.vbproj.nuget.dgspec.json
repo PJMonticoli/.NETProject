@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "\\\\server1\\V\\Fuentes Visual\\EnProceso\\Bancos\\EcheqRecibidos\\EcheqRecibidos\\EcheqRecibidos.vbproj": {}
+  },
+  "projects": {
+    "\\\\server1\\V\\Fuentes Visual\\EnProceso\\Bancos\\EcheqRecibidos\\EcheqRecibidos\\EcheqRecibidos.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\server1\\V\\Fuentes Visual\\EnProceso\\Bancos\\EcheqRecibidos\\EcheqRecibidos\\EcheqRecibidos.vbproj",
+        "projectName": "EcheqRecibidos",
+        "projectPath": "\\\\server1\\V\\Fuentes Visual\\EnProceso\\Bancos\\EcheqRecibidos\\EcheqRecibidos\\EcheqRecibidos.vbproj",
+        "packagesPath": "C:\\Users\\jorgedc.JOSEGUMA\\.nuget\\packages\\",
+        "outputPath": "\\\\server1\\V\\Fuentes Visual\\EnProceso\\Bancos\\EcheqRecibidos\\EcheqRecibidos\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jorgedc.JOSEGUMA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\GrapeCity\\ActiveReports 15\\NuGet": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Costura.Fody": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.8.0-alpha0098, )"
+            },
+            "Fody": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.8.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

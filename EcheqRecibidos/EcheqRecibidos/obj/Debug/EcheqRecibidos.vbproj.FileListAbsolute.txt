@@ -1,0 +1,180 @@
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\EcheqRecibidos.exe.config
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\EcheqRecibidos.exe
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\EcheqRecibidos.pdb
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\EcheqRecibidos.xml
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\Gcef.Data.DataEngine.xml
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\Gcef.Data.ExpressionInfo.xml
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\Gcef.Data.VBFunctionLib.xml
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.xml
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Chart.xml
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Chart.Win.xml
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Core.DataProviders.xml
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Core.Document.xml
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Core.Document.Drawing.Gc.xml
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Core.Document.Drawing.Gdi.xml
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Core.Drawing.Gc.xml
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Core.Drawing.Gdi.xml
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Core.Export.Image.Page.xml
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Core.Export.Tiff.Section.xml
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Core.Rdl.xml
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Core.Rendering.xml
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Core.Scripting.xml
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Design.Win.xml
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Document.xml
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Export.Image.xml
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Viewer.Common.xml
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Viewer.Win.xml
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Win.xml
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.Documents.Common.xml
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.Documents.Common.Windows.xml
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.Documents.DX.Windows.xml
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.Documents.Imaging.xml
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\System.Buffers.xml
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\System.Memory.xml
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\System.Numerics.Vectors.xml
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\System.Text.Encodings.Web.xml
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\System.Text.Json.xml
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\System.Threading.Tasks.Extensions.xml
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\System.ValueTuple.xml
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\Microsoft.VisualStudio.GraphModel.xml
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.vbproj.AssemblyReference.cache
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.vbproj.SuggestedBindingRedirects.cache
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.exe.config
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.vbproj.ResolveComReference.cache
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.FrmLogin.resources
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.FrmPrincipal.resources
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.FrmVisualizador.resources
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.Resources.resources
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.RptImprimirEcheq.resources
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.vbproj.GenerateResource.cache
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.exe.licenses
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.vbproj.CoreCompileInputs.cache
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.exe
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.xml
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.pdb
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\bin\Debug\EcheqRecibidos.exe.config
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\bin\Debug\EcheqRecibidos.exe
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\bin\Debug\EcheqRecibidos.pdb
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\bin\Debug\EcheqRecibidos.xml
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\bin\Debug\Gcef.Data.DataEngine.xml
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\bin\Debug\Gcef.Data.ExpressionInfo.xml
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\bin\Debug\Gcef.Data.VBFunctionLib.xml
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.xml
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Chart.xml
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Chart.Win.xml
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Core.DataProviders.xml
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Core.Document.xml
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Core.Document.Drawing.Gc.xml
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Core.Document.Drawing.Gdi.xml
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Core.Drawing.Gc.xml
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Core.Drawing.Gdi.xml
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Core.Export.Image.Page.xml
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Core.Export.Tiff.Section.xml
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Core.Rdl.xml
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Core.Rendering.xml
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Core.Scripting.xml
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Design.Win.xml
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Document.xml
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Export.Image.xml
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Viewer.Common.xml
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Viewer.Win.xml
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Win.xml
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.Documents.Common.xml
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.Documents.Common.Windows.xml
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.Documents.DX.Windows.xml
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.Documents.Imaging.xml
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\bin\Debug\System.Buffers.xml
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\bin\Debug\System.Memory.xml
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\bin\Debug\System.Numerics.Vectors.xml
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\bin\Debug\System.Text.Encodings.Web.xml
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\bin\Debug\System.Text.Json.xml
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\bin\Debug\System.ValueTuple.xml
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\bin\Debug\Microsoft.VisualStudio.GraphModel.xml
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.vbproj.AssemblyReference.cache
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.vbproj.SuggestedBindingRedirects.cache
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.exe.config
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.vbproj.ResolveComReference.cache
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.FrmLogin.resources
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.FrmPrincipal.resources
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.FrmVisualizador.resources
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.Resources.resources
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.RptImprimirEcheq.resources
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.vbproj.GenerateResource.cache
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.exe.licenses
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.vbproj.CoreCompileInputs.cache
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.vbproj.CopyComplete
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.exe
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.xml
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.pdb
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.vbproj.Fody.CopyLocal.cache
+D:\Archivos\Escritorio\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.vbproj.Fody.RuntimeCopyLocal.cache
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\EcheqRecibidos.exe.config
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\EcheqRecibidos.exe
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\EcheqRecibidos.pdb
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\EcheqRecibidos.xml
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\Gcef.Data.DataEngine.xml
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\Gcef.Data.ExpressionInfo.xml
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\Gcef.Data.VBFunctionLib.xml
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.xml
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Chart.xml
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Chart.Win.xml
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Core.DataProviders.xml
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Core.Document.xml
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Core.Document.Drawing.Gc.xml
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Core.Document.Drawing.Gdi.xml
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Core.Drawing.Gc.xml
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Core.Drawing.Gdi.xml
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Core.Export.Image.Page.xml
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Core.Export.Tiff.Section.xml
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Core.Rdl.xml
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Core.Rendering.xml
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Core.Scripting.xml
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Design.Win.xml
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Document.xml
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Export.Image.xml
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Viewer.Common.xml
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Viewer.Win.xml
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.ActiveReports.Win.xml
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.Documents.Common.xml
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.Documents.Common.Windows.xml
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.Documents.DX.Windows.xml
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\GrapeCity.Documents.Imaging.xml
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\System.Buffers.xml
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\System.Memory.xml
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\System.Numerics.Vectors.xml
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\System.Text.Encodings.Web.xml
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\System.Text.Json.xml
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\System.ValueTuple.xml
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\bin\Debug\Microsoft.VisualStudio.GraphModel.xml
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.vbproj.AssemblyReference.cache
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.vbproj.SuggestedBindingRedirects.cache
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.exe.config
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.vbproj.ResolveComReference.cache
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.FrmLogin.resources
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.FrmPrincipal.resources
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.FrmVisualizador.resources
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.Resources.resources
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.RptImprimirEcheq.resources
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.vbproj.GenerateResource.cache
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.exe.licenses
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.vbproj.CoreCompileInputs.cache
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRec.F59A5BE8.Up2Date
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.exe
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.xml
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.pdb
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRec.F59A5BE8.Up2Date
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.vbproj.Fody.CopyLocal.cache
+\\server1\V\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.vbproj.Fody.RuntimeCopyLocal.cache
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.vbproj.Fody.CopyLocal.cache
+V:\Fuentes Visual\EnProceso\Bancos\EcheqRecibidos\EcheqRecibidos\obj\Debug\EcheqRecibidos.vbproj.Fody.RuntimeCopyLocal.cache

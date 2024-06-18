@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\server1\\V\\Fuentes Visual\\EnProceso\\Bancos\\EcheqRecibidos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19FEF560-956B-4F28-8EF8-2F41CDE4B204}|EcheqRecibidos\\EcheqRecibidos.vbproj|\\\\server1\\v\\fuentes visual\\enproceso\\bancos\\echeqrecibidos\\echeqrecibidos\\vista\\formularios\\frmprincipal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19FEF560-956B-4F28-8EF8-2F41CDE4B204}|EcheqRecibidos\\EcheqRecibidos.vbproj|\\\\server1\\V\\Fuentes Visual\\EnProceso\\Bancos\\EcheqRecibidos\\echeqrecibidos\\vista\\formularios\\frmprincipal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19FEF560-956B-4F28-8EF8-2F41CDE4B204}|EcheqRecibidos\\EcheqRecibidos.vbproj|\\\\server1\\V\\Fuentes Visual\\EnProceso\\Bancos\\EcheqRecibidos\\echeqrecibidos\\vista\\modulos\\modulogrillas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModuloGrillas.vb",
+              "DocumentMoniker": "\\\\server1\\V\\Fuentes Visual\\EnProceso\\Bancos\\EcheqRecibidos\\EcheqRecibidos\\Vista\\Modulos\\ModuloGrillas.vb",
+              "RelativeDocumentMoniker": "EcheqRecibidos\\Vista\\Modulos\\ModuloGrillas.vb",
+              "ToolTip": "\\\\server1\\V\\Fuentes Visual\\EnProceso\\Bancos\\EcheqRecibidos\\EcheqRecibidos\\Vista\\Modulos\\ModuloGrillas.vb",
+              "RelativeToolTip": "EcheqRecibidos\\Vista\\Modulos\\ModuloGrillas.vb",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAADsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-13T14:39:32.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmPrincipal.vb [Dise\u00F1o]",
+              "DocumentMoniker": "\\\\server1\\V\\Fuentes Visual\\EnProceso\\Bancos\\EcheqRecibidos\\EcheqRecibidos\\Vista\\Formularios\\FrmPrincipal.vb",
+              "RelativeDocumentMoniker": "EcheqRecibidos\\Vista\\Formularios\\FrmPrincipal.vb",
+              "ToolTip": "\\\\server1\\V\\Fuentes Visual\\EnProceso\\Bancos\\EcheqRecibidos\\EcheqRecibidos\\Vista\\Formularios\\FrmPrincipal.vb [Dise\u00F1o]",
+              "RelativeToolTip": "EcheqRecibidos\\Vista\\Formularios\\FrmPrincipal.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-13T14:36:33.355Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmPrincipal.vb",
+              "DocumentMoniker": "\\\\server1\\V\\Fuentes Visual\\EnProceso\\Bancos\\EcheqRecibidos\\EcheqRecibidos\\Vista\\Formularios\\FrmPrincipal.vb",
+              "RelativeDocumentMoniker": "EcheqRecibidos\\Vista\\Formularios\\FrmPrincipal.vb",
+              "ToolTip": "\\\\server1\\V\\Fuentes Visual\\EnProceso\\Bancos\\EcheqRecibidos\\EcheqRecibidos\\Vista\\Formularios\\FrmPrincipal.vb",
+              "RelativeToolTip": "EcheqRecibidos\\Vista\\Formularios\\FrmPrincipal.vb",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAgwMAAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-13T14:09:21.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
